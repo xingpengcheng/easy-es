@@ -180,22 +180,28 @@ String indexName = "document";
   <img alt="ad" src="https://iknow.hs.net/00b4a54c-6505-4776-9232-f0a9d9768fac.jpg">
 </a>
 
-</br>
+<br/>
 
 <a href="https://www.misboot.com/?from=easy-es">
   <img alt="ad" src="https://iknow.hs.net/68963214-7a61-4f38-b5b5-a068c07a35f1.png">
 </a>
 
-</br>
+<br/>
 
 <a href="http://www.yunchengxc.com/">
   <img alt="ad" src="https://iknow.hs.net/ea88661b-3d02-4dba-aacb-8907a4ca8f11.jpg">
 </a>
 
-</br>
+<br/>
 
 <a href="https://www.jnpfsoft.com/index.html?from=easy-es/">
   <img alt="ad" src="https://iknow.hs.net/a3b07ec6-c94e-48c5-b1b4-743a4d6ba09f.png">
+</a>
+
+<br/>
+
+<a href="https://fastbee.cn/">
+  <img alt="ad" src="https://iknow.hs.net/b0592c71-5a41-427e-8d47-fcba4b399d02.png">
 </a>
 
 ## Donate
